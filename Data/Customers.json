@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Name": "John Smith",
+    "Email": "john.smith@test.com"
+  },
+  {
+    "Id": 2,
+    "Name": "Peter Kelner",
+    "Email": "peter.kelner@test.com"
+  },
+  {
+    "Id": 3,
+    "Name": "Lucy King",
+    "Email": "lucy.king@test.com"
+  },
+  {
+    "Id": 4,
+    "Name": "James Shrimp",
+    "Email": "james.shrimp@test.com"
+  },
+  {
+    "Id": 5,
+    "Name": "Anna Banana",
+    "Email": "anna.banana@test.com"
+  },
+  {
+    "Id": 6,
+    "Name": "Enterprajz Ajdinovic",
+    "Email": "enterprajz.ajdinovic@test.com"
+  },
+  {
+    "Id": 7,
+    "Name": "Marry Misery",
+    "Email": "marry.misery@test.com"
+  }
+]

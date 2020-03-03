@@ -1,0 +1,16 @@
+C:\Users\mipr1205\Desktop\GDrive\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\mipr1205\Desktop\GDrive\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\mipr1205\Desktop\GDrive\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\mipr1205\Desktop\GDrive\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\mipr1205\Desktop\GDrive\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\mipr1205\Desktop\GDrive\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\mipr1205\Desktop\GDrive\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\mipr1205\Desktop\GDrive\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\MILOS\Documents\Visual Studio 2019\Projects\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\MILOS\Documents\Visual Studio 2019\Projects\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\MILOS\Documents\Visual Studio 2019\Projects\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\MILOS\Documents\Visual Studio 2019\Projects\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\MILOS\Documents\Visual Studio 2019\Projects\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\MILOS\Documents\Visual Studio 2019\Projects\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\MILOS\Documents\Visual Studio 2019\Projects\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\MILOS\Documents\Visual Studio 2019\Projects\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
